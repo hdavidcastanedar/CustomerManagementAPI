@@ -6,13 +6,13 @@ This project is a RESTful web API developed using Clean Architecture principles,
 
 Key Features:
 
-CRUD Operations: Allows querying, creating, updating, and deleting customer information seamlessly.
+* CRUD Operations: Allows querying, creating, updating, and deleting customer information seamlessly.
 Customer Information: Manages essential customer details, including Name, DNI (National Identity Document), Address (comprising State and City), Phone, Mobile, and Email.
-In-Memory Database: Utilizes an in-memory database to store customer data, enabling rapid deployment and testing without the need for external database installations.
-Entity Framework (EF): Leverages Entity Framework for ORM, ensuring efficient data manipulation and abstracting database interactions.
-Unit Tests: Includes a suite of unit tests to verify the API's functionality and ensure the reliability and integrity of the customer data management.
-Seed Data: Automatically populates the database with test data upon startup, facilitating immediate testing and demonstration.
-Zero Installation: Designed to run out-of-the-box. Simply download the code, and you're ready to start without installing any databases or additional plugins.
+* In-Memory Database: Utilizes an in-memory database to store customer data, enabling rapid deployment and testing without the need for external database installations.
+* Entity Framework (EF): Leverages Entity Framework for ORM, ensuring efficient data manipulation and abstracting database interactions.
+* Unit Tests: Includes a suite of unit tests to verify the API's functionality and ensure the reliability and integrity of the customer data management.
+* Seed Data: Automatically populates the database with test data upon startup, facilitating immediate testing and demonstration.
+* Zero Installation: Designed to run out-of-the-box. Simply download the code, and you're ready to start without installing any databases or additional plugins.
 Getting Started:
 
 Clone the Repository: Begin by cloning this repository to your local machine.
